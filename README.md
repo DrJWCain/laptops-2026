@@ -47,7 +47,7 @@ The Dell XPS 14's low 28W base TDP gives it the best efficiency ratio — Tom's 
 
 ## Design & Build
 
-| | **Asus ExpertBook Ultra** | **Dell XPS 14** | **HP OmniBook Ultra 14** | **Lenovo X1 Carbon Gen 14** | **Lenovo X9 15p** | **Lenovo Yoga Slim 7i Ultra** | **Samsung Galaxy Book6 Pro 14** |
+| | **Asus ExpertBook Ultra** | ~~**Dell XPS 14**~~ | **HP OmniBook Ultra 14** | **Lenovo X1 Carbon Gen 14** | **Lenovo X9 15p** | **Lenovo Yoga Slim 7i Ultra** | **Samsung Galaxy Book6 Pro 14** |
 |---|---|---|---|---|---|---|---|
 | **Chassis** | Magnesium-aluminum, 9H nano-ceramic coating | Aluminum, flatter edges, stiffer build | Aluminum, forge-stamped, MIL-STD-810 | "Space frame" design, modular keyboard | All-metal chassis | Magnesium-alloy | Aluminum, 11.6mm thin |
 | **Webcam** | Standard | 4K | IR (Windows Hello) | 10MP + IR + shutter | 10MP | 5MP + IR | 2MP (Full HD) |
@@ -69,7 +69,7 @@ The Dell XPS 14's low 28W base TDP gives it the best efficiency ratio — Tom's 
 
 ## Availability & Pricing
 
-| | **Dell XPS 14** | **HP OmniBook Ultra 14** | **Lenovo Yoga Slim 7i Ultra** | **Samsung Galaxy Book6 Pro 14** | **Lenovo X1 Carbon Gen 14** | **Lenovo X9 15p** | **Asus ExpertBook Ultra** |
+| | ~~**Dell XPS 14**~~ | **HP OmniBook Ultra 14** | **Lenovo Yoga Slim 7i Ultra** | **Samsung Galaxy Book6 Pro 14** | **Lenovo X1 Carbon Gen 14** | **Lenovo X9 15p** | **Asus ExpertBook Ultra** |
 |---|---|---|---|---|---|---|---|
 | **Available** | Now (since Jan 6, 2026) | January 2026 | Q2 2026 | March 2026 | March 2026 (US) / April 2026 (EU) | March 2026 | April 2026 (estimated) |
 | **Starting Price** | $1,600 – $2,200+ | $1,549.99 | $1,499.99 | €1,799 (US TBD) | $1,999 (US) / €1,779 (EU) | $1,999 | ~$2,500 (estimated, unconfirmed) |
@@ -79,7 +79,7 @@ The Dell XPS 14's low 28W base TDP gives it the best efficiency ratio — Tom's 
 | | **Score** | **Status** |
 |---|---|---|
 | **Asus ExpertBook Ultra** | 88% (Very Good) | Reviewed |
-| **Dell XPS 14** | 87% (Good) | Reviewed |
+| ~~**Dell XPS 14**~~ | 87% (Good) | Reviewed |
 | **Lenovo X1 Carbon Gen 14** | — | Not yet scored |
 | **Lenovo X9 15p** | — | Not yet scored |
 | **Lenovo Yoga Slim 7i Ultra** | — | Not yet scored |
@@ -111,7 +111,7 @@ The Dell XPS 14's low 28W base TDP gives it the best efficiency ratio — Tom's 
 ## Verdict
 
 - **Asus ExpertBook Ultra** — Best all-around 14" performer. Highest review score, strongest sustained power in its size class, most storage. The business power user's pick.
-- **Dell XPS 14** — Available now and most affordable. Best multimedia experience with superior speakers (among 14" models), touchscreen, and 4K webcam. The most refined consumer-facing design.
+- ~~**Dell XPS 14**~~ — Available now and most affordable. Best multimedia experience with superior speakers (among 14" models), touchscreen, and 4K webcam. The most refined consumer-facing design.
 - **Lenovo ThinkPad X1 Carbon Gen 14** — The sub-1 kg ultraportable champion with class-leading repairability and the best webcam. Trade-off is the smallest battery (58Wh) and lowest sustained TDP (30W).
 - **Lenovo ThinkPad X9 15p** — The power and productivity pick. Biggest battery, best CPU, best ports, best speakers. A true MacBook Pro alternative that matches the Dell on weight (1.4 kg) despite the larger 15.3" screen and 88Wh battery.
 - **Lenovo Yoga Slim 7i Ultra** — The lightest and most affordable at 975g and $1,499.99. Brightest display (1,100 nits) with 100% AdobeRGB. Trade-offs are minimal ports (3x TB4 only), max 32GB RAM, and base config (Core Ultra 7 355) has significantly fewer GPU/CPU cores than the X-series chips.
@@ -174,7 +174,7 @@ For dev workloads (IDEs, Docker, browsers, terminals, video calls), key factors 
 ### Avoid for Dev Work
 
 - **Yoga Slim 7i Ultra** and **Samsung Galaxy Book6 Pro 14** — capped at 32GB RAM, limiting for Docker, VMs, and heavy multitasking
-- **Dell XPS 14** (for performance) — lowest sustained TDP (28W) means slower compiles when plugged in, and only 3x TB4 ports (no USB-A/HDMI without a dock)
+- ~~**Dell XPS 14**~~ (for performance) — lowest sustained TDP (28W) means slower compiles when plugged in, and only 3x TB4 ports (no USB-A/HDMI without a dock)
 
 ## Sources
 
