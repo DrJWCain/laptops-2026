@@ -200,3 +200,4 @@ For dev workloads (IDEs, Docker, browsers, terminals, video calls), key factors 
 - [Panther Lake vs M5 — Macworld](https://www.macworld.com/article/3043224/intel-panther-lake-core-ultra-x9-388h-vs-m5-performance-battery-graphics.html)
 - [Dell XPS 14 vs MacBook Pro M5 — Tom's Guide](https://www.tomsguide.com/computing/laptops/dell-xps-14-2026-vs-macbook-pro-14-inch-m5-which-laptop-wins)
 - [MacBook Pro 14 M5 Specs — Apple](https://support.apple.com/en-us/125405)
+- [Lenovo ThinkPad X9 15p Gen 1 Aura Edition - spec sheet](https://techtoday.lenovo.com/sites/default/files/2026-02/thinkpad-x9-15p-gen1-aura-edition-datasheet-ww-en.pdf)
