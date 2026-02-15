@@ -2,7 +2,7 @@
 
 ## Specs Comparison
 
-| | **Asus ExpertBook Ultra** | **Dell XPS 14** | **HP OmniBook Ultra 14** | **Lenovo X1 Carbon Gen 14** | **Lenovo X9 15p** | **Lenovo Yoga Slim 7i Ultra** | **Samsung Galaxy Book6 Pro 14** |
+| | **Asus ExpertBook Ultra** | ~~**Dell XPS 14**~~ | **HP OmniBook Ultra 14** | **Lenovo X1 Carbon Gen 14** | **Lenovo X9 15p** | **Lenovo Yoga Slim 7i Ultra** | **Samsung Galaxy Book6 Pro 14** |
 |---|---|---|---|---|---|---|---|
 | **CPU** | Core Ultra X7 358H | Core Ultra X7 358H | Core Ultra X9 388H | Core Ultra X7 358H | Core Ultra X9 (Panther Lake) | Up to Core Ultra X9 388H | Core Ultra X7 358H |
 | **GPU** | Arc B390 (integrated) | Arc B390 (integrated) | Arc B390 (integrated) | Arc B390 (integrated) | Arc B390 (integrated) | Arc B390 (integrated) | Arc B390 (integrated) |
@@ -16,7 +16,7 @@
 
 ## Performance
 
-| | **Asus ExpertBook Ultra** | **Dell XPS 14** | **HP OmniBook Ultra 14** | **Lenovo X1 Carbon Gen 14** | **Lenovo X9 15p** | **Lenovo Yoga Slim 7i Ultra** | **Samsung Galaxy Book6 Pro 14** |
+| | **Asus ExpertBook Ultra** | ~~**Dell XPS 14**~~ | **HP OmniBook Ultra 14** | **Lenovo X1 Carbon Gen 14** | **Lenovo X9 15p** | **Lenovo Yoga Slim 7i Ultra** | **Samsung Galaxy Book6 Pro 14** |
 |---|---|---|---|---|---|---|---|
 | **Sustained TDP** | 41W PL1 | 28W base | Not specified | 30W | 45W | Not specified | Not specified |
 | **Boost TDP** | 63W PL2 | Up to 45W | Not specified | Not specified | Not specified | Not specified | Not specified |
