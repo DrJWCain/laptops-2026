@@ -18,8 +18,8 @@
 
 | | **Asus ExpertBook Ultra** | ~~**Dell XPS 14**~~ | **Framework Laptop 13 Pro** | **HP OmniBook Ultra 14** | **Lenovo X1 Carbon Gen 14** | **Lenovo X9 15p** | **Lenovo Yoga Slim 7i Ultra** | **Samsung Galaxy Book6 Pro 14** |
 |---|---|---|---|---|---|---|---|---|
-| **Sustained TDP** | 41W PL1 | 28W base | Not yet published | Not specified | 30W | 45W | Not specified | Not specified |
-| **Boost TDP** | 63W PL2 | Up to 45W | Not yet published | Not specified | Not specified | Not specified | Not specified | Not specified |
+| **Sustained TDP** | 41W PL1 | 28W base | Not yet published | 25W base (15–80W variable) | 30W | 45W | Not specified | Not specified |
+| **Boost TDP** | 63W PL2 | Up to 45W | Not yet published | Up to 80W | Not specified | Not specified | Not specified | Not specified |
 
 All eight laptops share Intel's Arc B390 integrated GPU, delivering near-RTX 4050-level graphics performance — a generational leap over Lunar Lake and Arrow Lake. Note: the Yoga Slim 7i Ultra's base config (Core Ultra 7 355) has only 4 Xe3 GPU cores vs 12 on the X-series chips, significantly reducing graphics performance. Performance drops significantly on battery across all models; AC power is required for full GPU throughput.
 
@@ -40,7 +40,7 @@ All eight laptops share Intel's Arc B390 integrated GPU, delivering near-RTX 405
 | **Asus ExpertBook Ultra** | 70Wh | ~15h (video) / ~12h (real-world) | Video loop 200 nits (PCWorld) / mixed dev use |
 | **Lenovo X1 Carbon Gen 14** | 58Wh | Not yet tested | Expected ~12–14h based on prior gens |
 | **Lenovo X9 15p** | 88Wh | Not yet tested | Largest battery but highest TDP (45W) |
-| **HP OmniBook Ultra 14** | 70Wh | Not yet tested | — |
+| **HP OmniBook Ultra 14** | 70Wh | ~8.5–9h real-world | 4-month long-term test (Thurrott) |
 | **Lenovo Yoga Slim 7i Ultra** | 75Wh | Not yet tested | — |
 | **Framework Laptop 13 Pro** | 74Wh | Not yet independently tested | Framework claims ~20h Netflix 4K @ 250 nits |
 
@@ -74,7 +74,7 @@ The Dell XPS 14's low 28W base TDP gives it the best efficiency ratio — Tom's 
 | | ~~**Dell XPS 14**~~ | **HP OmniBook Ultra 14** | **Lenovo Yoga Slim 7i Ultra** | **Samsung Galaxy Book6 Pro 14** | **Lenovo X1 Carbon Gen 14** | **Lenovo X9 15p** | **Asus ExpertBook Ultra** | **Framework Laptop 13 Pro** |
 |---|---|---|---|---|---|---|---|---|
 | **Available** | Now (since Jan 6, 2026) | January 2026 | Q2 2026 | March 2026 | March 2026 (US) / April 2026 (EU) | March 2026 | April 2026 (estimated) | June 2026 (first batch); later batches into August |
-| **Starting Price** | $1,600 – $2,200+ | $1,549.99 | $1,499.99 | €1,799 (US TBD) | $1,999 (US) / €1,779 (EU) | $1,999 | ~$2,500 (estimated, unconfirmed) | $1,199 (DIY) / $1,499 (pre-built) |
+| **Starting Price** | $1,350 (entry, was $2,049 at launch) – $2,200+ | $1,549.99 | $1,499.99 | €1,799 (US TBD) | $1,999 (US) / €1,779 (EU) | $1,999 | ~$2,500 (estimated, unconfirmed) | $1,199 (DIY) / $1,499 (pre-built) |
 
 ## Review Scores
 
@@ -85,7 +85,7 @@ The Dell XPS 14's low 28W base TDP gives it the best efficiency ratio — Tom's 
 | **Lenovo X1 Carbon Gen 14** | — | Not yet scored |
 | **Lenovo X9 15p** | — | Not yet scored |
 | **Lenovo Yoga Slim 7i Ultra** | — | Not yet scored |
-| **HP OmniBook Ultra 14** | — | Not yet scored |
+| **HP OmniBook Ultra 14** | "Highly recommended" | Long-term review (Thurrott, 4 months); no numeric score |
 | **Samsung Galaxy Book6 Pro 14** | — | Not yet scored |
 | **Framework Laptop 13 Pro** | — | Hands-on only (NotebookCheck), not yet scored |
 
@@ -116,11 +116,11 @@ The Dell XPS 14's low 28W base TDP gives it the best efficiency ratio — Tom's 
 ## Verdict
 
 - **Asus ExpertBook Ultra** — Best all-around 14" performer. Highest review score, strongest sustained power in its size class, most storage. The business power user's pick.
-- ~~**Dell XPS 14**~~ — Available now and most affordable. Best multimedia experience with superior speakers (among 14" models), touchscreen, and 4K webcam. The most refined consumer-facing design.
+- ~~**Dell XPS 14**~~ — Available now. Entry price has dropped to $1,350 (from $2,049 launch), making it competitive. Best multimedia experience with superior speakers (among 14" models), touchscreen, and 4K webcam. The most refined consumer-facing design.
 - **Lenovo ThinkPad X1 Carbon Gen 14** — The sub-1 kg ultraportable champion with class-leading repairability and the best webcam. Trade-off is the smallest battery (58Wh) and lowest sustained TDP (30W).
 - **Lenovo ThinkPad X9 15p** — The power and productivity pick. Biggest battery, best CPU, best ports, best speakers. A true MacBook Pro alternative that matches the Dell on weight (1.4 kg) despite the larger 15.3" screen and 88Wh battery.
 - **Lenovo Yoga Slim 7i Ultra** — The lightest and most affordable at 975g and $1,499.99. Brightest display (1,100 nits) with 100% AdobeRGB. Trade-offs are minimal ports (3x TB4 only), max 32GB RAM, and base config (Core Ultra 7 355) has significantly fewer GPU/CPU cores than the X-series chips.
-- **HP OmniBook Ultra 14** — The durable pick. MIL-STD-810 rated with vapor chamber cooling, X9 388H chip, and up to 64GB RAM at 1.27 kg. Competitive pricing at $1,549.99. Ports limited to 3x TB4 only.
+- **HP OmniBook Ultra 14** — The durable pick. MIL-STD-810 rated with vapor chamber cooling, X9 388H chip, and up to 64GB RAM at 1.27 kg. Competitive pricing at $1,549.99. Ports limited to 3x TB4 only. Long-term review (Thurrott, 4 months) reports ~8.5–9h real-world battery and "typical Intel reliability issues" with unpredictable boot behavior and Windows Hello inconsistency.
 - **Samsung Galaxy Book6 Pro 14** — The thinnest at 11.6mm, lightest X7 358H laptop at 1.24 kg. Anti-reflective AMOLED touchscreen with Dolby Atmos. Trade-offs are only 2x TB4, weakest webcam (2MP), and smallest battery among 14" models (67Wh).
 - **Framework Laptop 13 Pro** — The repairable, Linux-first, upgrade-it-later pick. Cheapest in the field ($1,199 DIY / $1,499 pre-built), only one with user-replaceable LPCAMM2 RAM, only one Ubuntu Certified, modular expansion-card ports, and a unique 3:2 matte touchscreen at 700 nits. Trade-offs are slower RAM (7467 MT/s LPCAMM2 vs. up to 9600 MT/s soldered LPDDR5x), mid-pack weight (1.41 kg), smaller 13.5" panel, and unpublished sustained-TDP figures.
 
@@ -213,3 +213,8 @@ For dev workloads (IDEs, Docker, browsers, terminals, video calls), key factors 
 - [Framework Laptop 13 Pro: 20-Hour Battery, LPCAMM2 Memory — The Gadgeteer](https://the-gadgeteer.com/2026/04/28/framework-13-pro-laptop/)
 - [Framework Computer Announces The Framework Laptop 13 Pro — Phoronix](https://www.phoronix.com/news/Framework-Laptop-13-Pro)
 - [Hands-on with the Framework Laptop 13 Pro — NotebookCheck](https://www.notebookcheck.net/We-go-hands-on-with-the-Framework-Laptop-13-Pro-and-the-improvements-are-night-and-day.1281339.0.html)
+- [HP OmniBook Ultra Review: Nearly Perfect Panther Lake Powerhouse — Thurrott](https://www.thurrott.com/mobile/copilot-pc/335351/hp-omnibook-ultra-review-nearly-perfect-panther-lake-powerhouse)
+- [2026 Dell XPS 14 Review (April 2026) — Techaeris](https://techaeris.com/2026/04/17/2026-dell-xps-14-review/)
+- [Dell XPS 14 (2026) entry pricing update](https://lucas8.com/dell-xps-14-2026-price-specs-ram-issues/)
+- [Lenovo ThinkPad X9 15 Aura Edition Review — NotebookCheck](https://www.notebookcheck.net/Lenovo-ThinkPad-X9-15-Aura-Edition-Laptop-Review-The-MacBook-Air-rival-is-very-good-even-without-a-TrackPoint.967369.0.html)
+- [Samsung Galaxy Book6 Pro Review — NotebookCheck](https://www.notebookcheck.net/Samsung-Galaxy-Book6-Pro-Laptop-Review-Better-than-the-new-XPS-16.1257679.0.html)
