@@ -82,14 +82,14 @@ The Dell XPS 14's low 28W base TDP gives it the best efficiency ratio — Tom's 
 
 | | **Score** | **Status** |
 |---|---|---|
-| **Asus ExpertBook Ultra** | 88% (Very Good) | Reviewed |
-| ~~**Dell XPS 14**~~ | 87% (Good) | Reviewed |
-| **Lenovo X1 Carbon Gen 14** | — | Not yet scored |
-| **Lenovo X9 15p** | — | Not yet scored |
-| **Lenovo Yoga Slim 7i Ultra** | — | Not yet scored |
-| **HP OmniBook Ultra 14** | "Highly recommended" | Long-term review (Thurrott, 4 months); no numeric score |
-| **Samsung Galaxy Book6 Pro 14** | — | Not yet scored |
-| **Framework Laptop 13 Pro** | — | Hands-on only (NotebookCheck), not yet scored |
+| **Asus ExpertBook Ultra** | 88% (Very Good) — NotebookCheck / PCWorld | Reviewed |
+| ~~**Dell XPS 14**~~ | 87% (Good) — NotebookCheck | Reviewed; positive coverage from T3, Tom's Hardware, HotHardware, XDA, Techaeris |
+| **Lenovo X1 Carbon Gen 14** | iFixit 9/10 (repairability); NanoReview 60; **PC Pro "Best of CES 2026"** Award; DXOMARK camera 122 | First-look reviews (TechFinitive, exceldisc); no full numeric score from major outlets yet |
+| **Lenovo X9 15p** | — | Panther Lake variant not yet independently reviewed (X9 15 Lunar Lake reviews are a different product) |
+| **Lenovo Yoga Slim 7i Ultra** | Tom's Guide **"Best of CES 2026"** Award | Hands-on tested (Tom's Guide); reception mixed; no full numeric score yet |
+| **HP OmniBook Ultra 14** | "Highly recommended" / "Nearly perfect" — Thurrott | 4-month long-term review (Thurrott); also Trusted Reviews, Tom's Guide; no numeric score |
+| **Samsung Galaxy Book6 Pro 14** | "Recommended" — Expert Reviews | Reviewed widely (Expert Reviews, TechRadar, Tom's Guide, Trusted Reviews, NotebookCheck); most numeric scores cover the 16" sibling model |
+| **Framework Laptop 13 Pro** | NanoReview 68 (aggregator); PCWorld keyboard rated B+ | Multiple positive early hands-on reviews; no full numeric score from major outlets yet |
 
 ## Category Winners
 
