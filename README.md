@@ -75,6 +75,7 @@ The Dell XPS 14's low 28W base TDP gives it the best efficiency ratio — Tom's 
 |---|---|---|---|---|---|---|---|---|
 | **Available** | Now (since Jan 6, 2026) | January 2026 | Q2 2026 | March 2026 | March 2026 (US) / April 2026 (EU) | March 2026 | April 2026 (estimated) | June 2026 (first batch); later batches into August |
 | **Starting Price** | $1,350 (entry, was $2,049 at launch) – $2,200+ | $1,549.99 | $1,499.99 | €1,799 (US TBD) | $1,999 (US) / €1,779 (EU) | $1,999 | ~$2,500 (estimated, unconfirmed) | $1,199 (DIY) / $1,499 (pre-built) |
+| **UK Price (delivered, inc. VAT)** | From £1,599 (Ultra 5, 16GB, 512GB) — free delivery | TBD (Panther Lake variant not yet listed on HP UK) | From £1,620 (Ultra 7 355, 1TB) / £1,879 (2TB + Win 11 Pro) — note: UK retail launching with Ultra 7 355, not X9 388H | From £1,399 (Ultra 5, 16GB, 512GB) | From £2,099 (Ultra 5, 32GB, 512GB); £2,690 mid (Ultra 7 355, OLED, 1TB); £3,000+ (X7 358H, 64GB) | TBD (X9 15p Panther Lake variant not yet on Lenovo UK; only the X9 15 Lunar Lake model is currently sold) | TBD (UK pricing not yet announced) | From £1,009 DIY (Ultra 5, no RAM/SSD) / from ~£1,448 with 32GB LPCAMM2 |
 
 ## Review Scores
 
@@ -218,3 +219,12 @@ For dev workloads (IDEs, Docker, browsers, terminals, video calls), key factors 
 - [Dell XPS 14 (2026) entry pricing update](https://lucas8.com/dell-xps-14-2026-price-specs-ram-issues/)
 - [Lenovo ThinkPad X9 15 Aura Edition Review — NotebookCheck](https://www.notebookcheck.net/Lenovo-ThinkPad-X9-15-Aura-Edition-Laptop-Review-The-MacBook-Air-rival-is-very-good-even-without-a-TrackPoint.967369.0.html)
 - [Samsung Galaxy Book6 Pro Review — NotebookCheck](https://www.notebookcheck.net/Samsung-Galaxy-Book6-Pro-Laptop-Review-Better-than-the-new-XPS-16.1257679.0.html)
+
+### UK Pricing Sources (April 2026)
+
+- [Dell XPS 14 (2026) — Dell UK](https://www.dell.com/en-uk/shop/dell-laptops/xps-14-laptop-2026/spd/xps-da14260-laptop)
+- [ThinkPad X1 Carbon Gen 14 Aura Edition — Lenovo UK](https://www.lenovo.com/gb/en/p/laptops/thinkpad/thinkpadx1/lenovo-thinkpad-x1-carbon-gen-14-aura-edition-14-inch-intel/len101t0159)
+- [Yoga Slim 7i Ultra Gen 11 Aura Edition — Lenovo UK](https://www.lenovo.com/gb/en/p/laptops/yoga/yoga-slim-series/lenovo-yoga-slim-7i-ultra-gen-11-aura-edition-14-inch-intel/len101y0064)
+- [Lenovo launches Yoga Slim 7i Ultra in UK — Gizmochina](https://www.gizmochina.com/2026/01/13/lenovo-yoga-slim-7i-ultra-aura-edition-uk-launch/)
+- [Samsung Galaxy Book6 Pro 14" — Samsung UK](https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-pro-ultra-5-16gb-256gb-np940xjg-kg1uk/)
+- [Framework Laptop 13 Pro UK pricing — OMG! Ubuntu](https://www.omgubuntu.co.uk/2026/04/framework-13-pro-ubuntu-certified)
