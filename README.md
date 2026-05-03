@@ -4,15 +4,15 @@
 
 | | **Asus ExpertBook Ultra** | ~~**Dell XPS 14**~~ | **Framework Laptop 13 Pro** | **HP OmniBook Ultra 14** | **Lenovo X1 Carbon Gen 14** | **Lenovo X9 15p** | **Lenovo Yoga Slim 7i Ultra** | **Samsung Galaxy Book6 Pro 14** |
 |---|---|---|---|---|---|---|---|---|
-| **CPU** | Core Ultra X7 358H | Core Ultra X7 358H | Core Ultra X7 358H / X9 388H (or Ryzen AI 300) | Core Ultra X9 388H | Core Ultra X7 358H | Core Ultra X9 (Panther Lake) | Up to Core Ultra X9 388H | Core Ultra X7 358H |
+| **CPU** | Core Ultra X7 358H | Core Ultra X7 358H | Core Ultra X7 358H / X9 388H | Core Ultra X9 388H | Core Ultra X7 358H | Core Ultra X9 (Panther Lake) | Up to Core Ultra X9 388H | Core Ultra X7 358H |
 | **GPU** | Arc B390 (integrated) | Arc B390 (integrated) | Arc B390 (integrated) | Arc B390 (integrated) | Arc B390 (integrated) | Arc B390 (integrated) | Arc B390 (integrated) | Arc B390 (integrated) |
 | **RAM** | 32GB (up to 64GB) | 32GB | Up to 64GB LPCAMM2 LPDDR5x-7467 (upgradeable) | Up to 64GB | Up to 64GB | Up to 64GB LPDDR5x-9600 | Up to 32GB LPDDR5x-9600 | 32GB LPDDR5X |
-| **Storage** | 2TB Samsung PM9E1 (PCIe 5) | 1TB Samsung PM9C1b | Up to 8TB PCIe 5 NVMe | Up to 2TB | M.2 2280 PCIe 5 (TBD) | TBD | Up to 2TB M.2 PCIe 4.0 | 1TB NVMe |
+| **Storage** | 2TB Samsung PM9E1 (PCIe 5) | 1TB Samsung PM9C1b | Up to 2TB PCIe 5 NVMe (DIY: BYO) | Up to 2TB | M.2 2280 PCIe 5 (TBD) | TBD | Up to 2TB M.2 PCIe 4.0 | 1TB NVMe |
 | **Display** | 14" 2.8K OLED 120Hz, matte | 14" 2.8K OLED 120Hz, glossy touch | 13.5" 2880×1920 3:2, 30–120Hz VRR, matte touch, 700 nits | 14" 3K OLED 120Hz, touch | 14" 2.8K OLED 120Hz | 15.3" 2.8K, 16:10 | 14" 2.8K OLED 120Hz, 1,100 nits | 14" 3K AMOLED 120Hz, touch, anti-reflective |
 | **Battery** | 70Wh | 70Wh | 74Wh | 70Wh | 58Wh | 88Wh | 75Wh | 67Wh |
 | **Charger** | 90W USB-C | ~100W USB-C (unconfirmed) | 100W USB-C GaN | 65W USB-C | 65W USB-C GaN | 100W USB-C GaN | 65W USB-C | 65W USB-C |
 | **Weight** | 1.11 kg (2.45 lbs) | 1.44 kg (3.17 lbs) | 1.41 kg (3.11 lbs) | 1.27 kg (2.8 lbs) | ~1.0 kg (2.2 lbs) | 1.4 kg (3.1 lbs) | 975g (2.15 lbs) | 1.24 kg (2.73 lbs) |
-| **OS** | Windows 11 Pro | Windows 11 | Ubuntu (certified) / Windows 11 | Windows 11 | Windows 11 | Windows 11 | Windows 11 | Windows 11 |
+| **OS** | Windows 11 Pro | Windows 11 | Ubuntu 24.04 LTS (certified) / Windows 11 Pro / DIY (BYO) | Windows 11 | Windows 11 | Windows 11 | Windows 11 | Windows 11 |
 
 ## Performance
 
@@ -75,8 +75,8 @@ The Dell XPS 14's low 28W base TDP gives it the best efficiency ratio — Tom's 
 |---|---|---|---|---|---|---|---|---|
 | **Available** | Now (since Jan 6, 2026) | January 2026 | Q2 2026 | March 2026 | March 2026 (US) / April 2026 (EU) | March 2026 | April 2026 (estimated) | June 2026 (first batch); later batches into August |
 | **Starting Price** | $1,350 (entry, was $2,049 at launch) – $2,200+ | $1,549.99 | $1,499.99 | €1,799 (US TBD) | $1,999 (US) / €1,779 (EU) | $1,999 | ~$2,500 (estimated, unconfirmed) | $1,199 (DIY) / $1,499 (pre-built) |
-| **UK Price (delivered, inc. VAT)** | From £1,599 (Ultra 5, 16GB, 512GB) — free delivery | TBD (Panther Lake variant not yet listed on HP UK) | From £1,620 (Ultra 7 355, 1TB) / £1,879 (2TB + Win 11 Pro) — note: UK retail launching with Ultra 7 355, not X9 388H | From £1,399 (Ultra 5, 16GB, 512GB) | From £2,099 (Ultra 5, 32GB, 512GB); £2,690 mid (Ultra 7 355, OLED, 1TB); £3,000+ (X7 358H, 64GB) | TBD (X9 15p Panther Lake variant not yet on Lenovo UK; only the X9 15 Lunar Lake model is currently sold) | TBD (UK pricing not yet announced) | From £1,009 DIY (Ultra 5, no RAM/SSD) / from ~£1,448 with 32GB LPCAMM2 |
-| **UK like-for-like (X7 358H, 32GB, 1TB)** | ~£2,300 (BYO config; pre-builts cap at X7 + 32GB + 512GB at £2,198.99 OLED touch) | N/A (X7 358H not offered on OmniBook Ultra 14 UK — only on OmniBook 7 / OmniBook X 16") | N/A (UK retail config is Ultra 7 355 only; no X7 358H option currently sold) | **£2,399** (was £3,299 — currently with £400 promo discount) | From £3,000+ (X7 358H starts above £3,000; 32GB+1TB specific config needs configurator) | TBD (Panther Lake variant not yet on Lenovo UK) | TBD (UK pricing not yet announced) | **From £2,009** (pre-built Ubuntu, X7 358H + 32GB LPCAMM2 + 1TB) |
+| **UK Price (delivered, inc. VAT)** | From £1,599 (Ultra 5, 16GB, 512GB) — free delivery | TBD (Panther Lake variant not yet listed on HP UK) | From £1,620 (Ultra 7 355, 1TB) / £1,879 (2TB + Win 11 Pro) — note: UK retail launching with Ultra 7 355, not X9 388H | From £1,399 (Ultra 5, 16GB, 512GB) | From £2,099 (Ultra 5, 32GB, 512GB); £2,690 mid (Ultra 7 355, OLED, 1TB); £3,000+ (X7 358H, 64GB) | TBD (X9 15p Panther Lake variant not yet on Lenovo UK; only the X9 15 Lunar Lake model is currently sold) | TBD (UK pricing not yet announced) | From £1,199 DIY (Ultra 5 325, BYO RAM/SSD/OS) / from £2,099 pre-built |
+| **UK like-for-like (X7 358H, 32GB, 1TB)** | ~£2,300 (BYO config; pre-builts cap at X7 + 32GB + 512GB at £2,198.99 OLED touch) | N/A (X7 358H not offered on OmniBook Ultra 14 UK — only on OmniBook 7 / OmniBook X 16") | N/A (UK retail config is Ultra 7 355 only; no X7 358H option currently sold) | **£2,399** (was £3,299 — currently with £400 promo discount) | From £3,000+ (X7 358H starts above £3,000; 32GB+1TB specific config needs configurator) | TBD (Panther Lake variant not yet on Lenovo UK) | TBD (UK pricing not yet announced) | TBD (configurator needed; pre-built starts at £2,099 for Ultra 5 325 base — X7 358H + 32GB + 1TB will be higher) |
 
 ## Review Scores
 
@@ -178,7 +178,7 @@ For dev workloads (IDEs, Docker, browsers, terminals, video calls), key factors 
 | **Best for heavy builds/compiles** | ThinkPad X9 15p — highest sustained TDP (45W), up to 64GB RAM, 88Wh battery, 15.3" screen shows more code |
 | **Best battery life for dev** | Dell XPS 14 — ~16h 45m tested, 28W base TDP is most efficient. Trade-off: weakest sustained performance when plugged in |
 | **Best value with X9 chip** | HP OmniBook Ultra 14 — X9 388H + 64GB RAM at $1,549.99, vapor chamber cooling. Trade-off: only 3x TB4 (need a dock for HDMI/USB-A) |
-| **Best for Linux dev / upgradeability** | Framework Laptop 13 Pro — Ubuntu Certified, only laptop with user-replaceable LPCAMM2 RAM (upgrade later from 16GB → 64GB), up to 8TB PCIe 5 NVMe (most storage in the field for repos/VMs/containers), modular ports (configure HDMI + USB-A + TB4 yourself), 3:2 matte display ideal for code, $1,199 DIY |
+| **Best for Linux dev / upgradeability** | Framework Laptop 13 Pro — Ubuntu 24.04 LTS Certified, only laptop with user-replaceable LPCAMM2 RAM (upgrade later from 16GB → 64GB), modular ports (configure HDMI + USB-A + TB4 yourself), 3:2 matte display ideal for code, $1,199 DIY |
 | **Best display for code** | Framework Laptop 13 Pro — only 3:2 panel in the lineup (2880×1920), giving more vertical space for code, terminals, and logs than any 16:10 alternative. Matte finish + 700 nits + touch |
 | **Cheapest dev laptop** | Framework Laptop 13 Pro — $1,199 DIY (BYO RAM/SSD/OS) or $1,499 pre-built. Lowest entry price in the field, and the DIY route lets you spec exactly what you need |
 
@@ -193,8 +193,8 @@ Framework Laptop 13 Pro is the only model in this lineup with formal Linux backi
 
 ### Framework Laptop 13 Pro — the only certified option
 
-- **Ubuntu Certified** (first Framework to earn this)
-- Pre-loaded Ubuntu option at purchase
+- **Ubuntu 24.04 LTS Certified** (first Framework to earn this)
+- Pre-loaded Ubuntu 24.04 LTS option at purchase
 - DIY config ships without an OS, designed for Linux installs
 - Modular hardware (LPCAMM2 RAM, expansion-card ports) is well-supported by the mainline kernel
 
