@@ -119,7 +119,7 @@ The Dell XPS 14's low 28W base TDP gives it the best efficiency ratio — Tom's 
 
 - **Asus ExpertBook Ultra** — Best all-around 14" performer. Highest review score, strongest sustained power in its size class, most storage. The business power user's pick.
 - ~~**Dell XPS 14**~~ — Available now. Entry price has dropped to $1,350 (from $2,049 launch), making it competitive. Best multimedia experience with superior speakers (among 14" models), touchscreen, and 4K webcam. The most refined consumer-facing design.
-- **Lenovo ThinkPad X1 Carbon Gen 14** — The sub-1 kg ultraportable champion with class-leading repairability and the best webcam. Trade-off is the smallest battery (58Wh) and lowest sustained TDP (30W).
+- **Lenovo ThinkPad X1 Carbon Gen 14** — The sub-1 kg ultraportable champion with the best webcam and excellent repairability for a traditional ultraportable (iFixit 9/10; Framework 13 Pro is the only one in the lineup that beats it). Trade-off is the smallest battery (58Wh) and lowest sustained TDP (30W).
 - **Lenovo ThinkPad X9 15p** — The power and productivity pick. Biggest battery, best CPU, best ports, best speakers. A true MacBook Pro alternative that matches the Dell on weight (1.4 kg) despite the larger 15.3" screen and 88Wh battery.
 - **Lenovo Yoga Slim 7i Ultra** — The lightest and most affordable at 975g and $1,499.99. Brightest display (1,100 nits) with 100% AdobeRGB. Trade-offs are minimal ports (3x TB4 only), max 32GB RAM, and base config (Core Ultra 7 355) has significantly fewer GPU/CPU cores than the X-series chips.
 - **HP OmniBook Ultra 14** — The durable pick. MIL-STD-810 rated with vapor chamber cooling, X9 388H chip, and up to 64GB RAM at 1.27 kg. Competitive pricing at $1,549.99. Ports limited to 3x TB4 only. Long-term review (Thurrott, 4 months) reports ~8.5–9h real-world battery and "typical Intel reliability issues" with unpredictable boot behavior and Windows Hello inconsistency.
@@ -174,11 +174,13 @@ For dev workloads (IDEs, Docker, browsers, terminals, video calls), key factors 
 
 | Priority | Recommended |
 |---|---|
-| **Best overall dev laptop** | ThinkPad X1 Carbon Gen 14 — up to 64GB RAM, best keyboard (ThinkPad, modular), best repairability, best ports for monitors (3x TB4 + HDMI), ~1.0 kg, best webcam for calls |
+| **Best overall dev laptop** | ThinkPad X1 Carbon Gen 14 — up to 64GB RAM, best keyboard (ThinkPad, modular), highly repairable (iFixit 9/10), best ports for monitors (3x TB4 + HDMI), ~1.0 kg, best webcam for calls |
 | **Best for heavy builds/compiles** | ThinkPad X9 15p — highest sustained TDP (45W), up to 64GB RAM, 88Wh battery, 15.3" screen shows more code |
 | **Best battery life for dev** | Dell XPS 14 — ~16h 45m tested, 28W base TDP is most efficient. Trade-off: weakest sustained performance when plugged in |
 | **Best value with X9 chip** | HP OmniBook Ultra 14 — X9 388H + 64GB RAM at $1,549.99, vapor chamber cooling. Trade-off: only 3x TB4 (need a dock for HDMI/USB-A) |
-| **Best for Linux dev / upgradeability** | Framework Laptop 13 Pro — Ubuntu Certified, only laptop with user-replaceable LPCAMM2 RAM (upgrade later from 16GB → 64GB), modular ports (configure HDMI + USB-A + TB4 yourself), 3:2 display ideal for code, $1,199 DIY |
+| **Best for Linux dev / upgradeability** | Framework Laptop 13 Pro — Ubuntu Certified, only laptop with user-replaceable LPCAMM2 RAM (upgrade later from 16GB → 64GB), up to 8TB PCIe 5 NVMe (most storage in the field for repos/VMs/containers), modular ports (configure HDMI + USB-A + TB4 yourself), 3:2 matte display ideal for code, $1,199 DIY |
+| **Best display for code** | Framework Laptop 13 Pro — only 3:2 panel in the lineup (2880×1920), giving more vertical space for code, terminals, and logs than any 16:10 alternative. Matte finish + 700 nits + touch |
+| **Cheapest dev laptop** | Framework Laptop 13 Pro — $1,199 DIY (BYO RAM/SSD/OS) or $1,499 pre-built. Lowest entry price in the field, and the DIY route lets you spec exactly what you need |
 
 ### Avoid for Dev Work
 
