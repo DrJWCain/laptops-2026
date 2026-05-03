@@ -185,6 +185,32 @@ For dev workloads (IDEs, Docker, browsers, terminals, video calls), key factors 
 - **Yoga Slim 7i Ultra** and **Samsung Galaxy Book6 Pro 14** — capped at 32GB RAM, limiting for Docker, VMs, and heavy multitasking
 - ~~**Dell XPS 14**~~ (for performance) — lowest sustained TDP (28W) means slower compiles when plugged in, and only 3x TB4 ports (no USB-A/HDMI without a dock)
 
+## Linux Support
+
+Framework Laptop 13 Pro is the only model in this lineup with formal Linux backing. Every other laptop ships Windows 11 only — Linux will run, but driver support is your problem.
+
+### Framework Laptop 13 Pro — the only certified option
+
+- **Ubuntu Certified** (first Framework to earn this)
+- Pre-loaded Ubuntu option at purchase
+- DIY config ships without an OS, designed for Linux installs
+- Modular hardware (LPCAMM2 RAM, expansion-card ports) is well-supported by the mainline kernel
+
+### Everything else: Windows 11 only
+
+No certified Linux SKUs from Asus, Dell, HP, Lenovo, or Samsung in this lineup. Among the Windows-only options, **ThinkPads (X1 Carbon Gen 14, X9 15p)** historically have the best community Linux support, even without official certification.
+
+### Panther Lake silicon — Linux readiness
+
+Panther Lake is very new silicon, so kernel/Mesa support maturity matters:
+
+- **Arc B390 iGPU**: needs a recent kernel (6.13+) and recent Mesa for full GPU acceleration
+- **NPU**: Panther Lake NPU support on Linux is still landing upstream as of early 2026
+
+### Recommendation
+
+If Linux is a priority, Framework 13 Pro is the only safe pick. If you want a more conventional chassis, a ThinkPad with Ubuntu installed manually is the next-best option.
+
 ## Sources
 
 - [Asus ExpertBook Ultra Review — NotebookCheck](https://www.notebookcheck.net/Asus-ExpertBook-Ultra-review-One-helluva-debut-for-Intel-Panther-Lake-X7.1209366.0.html)
